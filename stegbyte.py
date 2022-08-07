@@ -5,7 +5,7 @@ import numpy as np
 import pyfiglet
   
 banner = pyfiglet.figlet_format("STEGBYTE")
-print(banner,"\t\t\t\tCreated By 0xkirthik")
+print(banner,"\t\t\t\tCreated By Karvendhan")
 
 
 def data2binary(data):
